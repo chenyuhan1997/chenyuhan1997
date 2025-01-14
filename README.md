@@ -51,7 +51,7 @@
    |                            |  Convolutional Kernel Design                           |
 
 
-## [QH - 01](https://github.com/chenyuhan1997/chenyuhan1997)
+## [QH - 01](https://github.com/chenyuhan1997/QH---01)
 <img align="right" width="88" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/3.png" />
    
    | Start Time                    | 📌 2020-06-01 —— Present |
