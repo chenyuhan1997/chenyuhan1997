@@ -1,6 +1,6 @@
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A New Plan ... You Know ... &center=true&size=27" />
-  <img src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/1.png" alt="my" width="800" style="display: block; margin: 0 auto;"/>
+  <img src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/1.png" alt="my" width="1000" style="display: block; margin: 0 auto;"/>
 </p>
 
 
@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-   <img width="800" src="https://github-readme-stats.vercel.app/api?username=chenyuhan1997&hide_title=true&hide_border=true&show_icons=trueline_height=200&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+   <img width="1000" src="https://github-readme-stats.vercel.app/api?username=chenyuhan1997&hide_title=true&hide_border=true&show_icons=trueline_height=200&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 </div>
 
 #  :oncoming_automobile: :bath: :bath: Hello
