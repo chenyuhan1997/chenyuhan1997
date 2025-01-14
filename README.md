@@ -31,9 +31,9 @@
 
 <p>&emsp;Hello, my name is Yuhan Chen, a PhD student from Chongqing University :raising_hand:.</p>
 <p>&emsp;My primary research focuses on :point_right:<strong>image processing</strong> and :point_right:<strong>vehicle perception</strong>.</p>
-<p>&emsp;I am working on an academic project called :point_right:<strong>Putting an End to Darkness</strong>:sunny:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Deadline: <strong>2028</strong></p>
+<p>&emsp;I am working on an academic project called :point_right:<strong>Putting an End to Darkness</strong>:sunny:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Deadline: <strong>2030</strong></p>
 <p>&emsp;I am working on an academic project called :alien:<strong>QH - 01</strong>:rocket:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Deadline: <strong>2030</strong></p>
-<p>&emsp;I am working on an academic project called :oncoming_automobile:<strong>ADMSC-Simulator</strong>:imp:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Deadline: <strong>2027</strong></p>
+<p>&emsp;I am working on an academic project called :oncoming_automobile:<strong>ADMSC-Simulator</strong>:imp:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Deadline: <strong>2029</strong></p>
 
 <img width="200%" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/hr.gif" />
 
@@ -62,7 +62,7 @@
    |                            |  LLM-based Robot Control                           |
 
 
-## [ADMSC-Simulator](https://github.com/chenyuhan1997/chenyuhan1997)
+## [ADMSC-Simulator](https://github.com/chenyuhan1997/ADMSC-Simulator)
 <img align="right" width="88" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/4.png" />
    
    | Start Time                    | 📌 2024-04-11 —— Present |
