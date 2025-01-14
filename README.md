@@ -8,6 +8,7 @@
  <a href="https://www.zhihu.com/people/qiao-han-80-16/"><img src="https://img.shields.io/badge/Website-ZHIHU-blue" /></a>&emsp;
  <a href="https://blog.csdn.net/m0_57628341/"><img src="https://img.shields.io/badge/Website-CSDN-orange" /></a>&emsp;
  <a href="https://space.bilibili.com/55263196/"><img src="https://img.shields.io/badge/Bilibili-Bilibili-ff69b4" /></a>&emsp;
+ <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>&emsp;
  <!-- visitor -->
  <img src="https://komarev.com/ghpvc/?username=chenyuhan1997&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
  <!-- wakatime -->    
@@ -17,6 +18,28 @@
 <div align="center">
    <img width="800" src="https://github-readme-stats.vercel.app/api?username=chenyuhan1997&hide_title=true&hide_border=true&show_icons=trueline_height=200&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 </div>
+
+#  🙋 Hello
+
+<table>
+  
+<tr><td>
+
+### 🤺 About Me
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
+
+<p>&emsp;&emsp;嗨，你好，我是小孙同学。热爱编程、摄影、读书、旅行。</p>
+<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
+<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+
+</td></tr>
+
+<tr><td>
+
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chenyuhan1997/chenyuhan1997/output/github-contribution-grid-snake-dark.svg">
