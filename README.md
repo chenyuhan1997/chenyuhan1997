@@ -65,6 +65,21 @@
 |                            |    Dynamic Scene Rendering                        |
 |                            |    Editable Dynamic Objects                        |
 
+
+
+### :office: :runner: :runner: About My Recent work
+
+<!-- feed start -->
+## :boom: :boom: About My Recent Blog
+- :star2: - [2D Gaussian Splatting 文章 + 代码串读（无敌详细/引经据典/疯狂解读）](https://zhuanlan.zhihu.com/p/708372232)
+- :star2: - [Dust3r文章 + 代码串读（无敌详细/引经据典/疯狂解读）](https://zhuanlan.zhihu.com/p/10245148055)
+- :star2: - [外行也能看懂！万字白话串讲SFM到3DGS / 4DGS 动静场景重建（零公式原理细讲/全网最详细）](https://zhuanlan.zhihu.com/p/11477776099)
+## :boom: :boom: About My Recent Paper
+- :star2: - [FRR-NET: a fast reparameterized residual network for low-light image enhancement](https://link.springer.com/article/10.1007/s11760-024-03127-y)
+- :star2: - [FMR-Net: a fast multi-scale residual network for low-light image enhancement](https://link.springer.com/article/10.1007/s00530-023-01252-1)
+- :star2: - [MMFF-NET: Multi-layer and multi-scale feature fusion network for low-light infrared image enhancement](https://link.springer.com/article/10.1007/s11760-023-02797-4)
+<!-- feed end -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chenyuhan1997/chenyuhan1997/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chenyuhan1997/chenyuhan1997/output/github-contribution-grid-snake.svg">
