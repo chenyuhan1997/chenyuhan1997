@@ -80,17 +80,24 @@
 - :star2: - [MMFF-NET: Multi-layer and multi-scale feature fusion network for low-light infrared image enhancement](https://link.springer.com/article/10.1007/s11760-023-02797-4)
 <!-- feed end -->
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=chenyuhan1997&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=chenyuhan1997&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=chenyuhan1997&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
+:information_desk_person: **I'm a :smiley_cat: of the deep night** 
+
+```text
+🌞 Morning                █░░░░░░░░░░░░░░░░░░░░░░░░   Probability: 08.13 % 
+🌆 Daytime                █████████████████████░░░░   Probability: 80.59 % 
+🌃 Evening                ███████████████████████░░   Probability: 90.02 % 
+🌙 Night                  ███████████████████░░░░░░   Probability: 85.46 % 
+```
+:date: **I work every day** 
+
+```text
+:one:Monday                    ██████████████████████░░   Probability: 08.13 % 
+:two:Tuesday                    ██████████████████████░░   Probability: 08.13 % 
+:three:Wednesday                    ██████████████████████░░   Probability: 08.13 % 
+:four:Thursday                    ██████████████████████░░   Probability: 08.13 % 
+:five:Friday                    ██████████████████████░░   Probability: 08.13 % 
+:six:Saturday                    ██████████████████████░░   Probability: 08.13 % 
+:seven:Sunday                    ██████████████████████░░   Probability: 08.13 % 
 
 
 <picture>
