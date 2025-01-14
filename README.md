@@ -42,8 +42,6 @@
 
 ## [Putting an End to Darkness](https://github.com/chenyuhan1997/chenyuhan1997)
 <img align="right" width="88" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/2.png" />
-
-<div align="center" >
    
    | Start Time                    | 📌 2023-08-01 —— Present |
    |----------------------------|--------------------------|
@@ -51,12 +49,10 @@
    |                            |   Low-Light Video Enhancement                       |
    |                            |  Low-Light Scene Relighting                        |
    |                            |  Convolutional Kernel Design                           |
-</div>
+
 
 ## [QH - 01](https://github.com/chenyuhan1997/chenyuhan1997)
 <img align="right" width="88" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/3.png" />
-
-<div align="center" >
    
    | Start Time                    | 📌 2020-06-01 —— Present |
    |----------------------------|--------------------------|
@@ -64,12 +60,10 @@
    |                            |   Real-Time 3D Modeling                            |
    |                            |  Multi-Sensor Fusion Perception                    |
    |                            |  LLM-based Robot Control                           |
-</div>
+
 
 ## [ADMSC-Simulator](https://github.com/chenyuhan1997/chenyuhan1997)
 <img align="right" width="88" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/4.png" />
-
-<div align="center" >
    
    | Start Time                    | 📌 2024-04-11 —— Present |
    |----------------------------|--------------------------|
@@ -77,7 +71,6 @@
    |                            |    Static Scene Editing                       |
    |                            |    Dynamic Scene Rendering                        |
    |                            |    Editable Dynamic Objects                        |
-</div>
 
 <img width="200%" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/hr.gif" />
 
