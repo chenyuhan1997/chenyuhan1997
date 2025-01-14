@@ -38,7 +38,7 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/yuanze.png" />
 
 - ## [Putting an End to Darkness](https://lusun.com/) &emsp; 📌 2023-08-01 —— Present
-
+- <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/yuanze.png" />
   - 工作岗位：软件研发工程师
   - 工作内容：软件开发与维护
 
