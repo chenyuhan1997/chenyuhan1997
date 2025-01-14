@@ -23,7 +23,7 @@
 
 <table>
   
-<tr><td>
+
 
 ### :love_hotel: :runner: :runner: About My Recent Status
 
@@ -32,13 +32,9 @@
 <p>&emsp;I am working on an academic project called :point_right:<strong>Putting an End to Darkness</strong>:sunny:&emsp;&emsp;Deadline:<strong>2028</strong></p>
 <p>&emsp;I am working on an academic project called :alien:<strong>QH - 01</strong>:imp:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Deadline: <strong>2030</strong></p>
 
-</td></tr>
 
-<tr><td>
-   
 ### :shipit: :runner: :runner: About My Projects
 
-</tr></tr>
 
 
 <picture>
