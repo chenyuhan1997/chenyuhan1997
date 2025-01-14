@@ -27,7 +27,7 @@
 
 ### :love_hotel: :runner: :runner: About My Recent Work
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
+<img align="right" width="88" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/101401094.png" />
 
 <p>&emsp;Hello, my name is Yuhan Chen, a PhD student from Chongqing University :raising_hand:.</p>
 <p>&emsp;My primary research focuses on :point_right:<strong>image processing</strong> and :point_right:<strong>vehicle perception</strong>.</p>
