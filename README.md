@@ -40,32 +40,28 @@
 <img align="right" width="88" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/2.png" />
 
 | Start Time                    | 📌 2023-08-01 —— Present |
-|-----------------------------|--------------------------|
-| 软件研发工程师              |                          |
-| 软件开发与维护              |                          |
-| 软件开发与维护              |                          |
-| 软件开发与维护              |                          |
+|----------------------------|--------------------------|
+| Research Content           |    Low-Light Image Enhancement                     |
+|                            |   Low-Light Video Enhancement                       |
+|                            |  Low-Light Scene Relighting                        |
 
 
-## [QH - 01](https://www.tuhuimap.com/) <span style="float: right;">📌 2023-08-01 —— Present</span>
+## [QH - 01](https://www.tuhuimap.com/)
+<img align="right" width="88" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/3.png" />
 
-  - 工作岗位：Web 前端开发工程师
-  - 
-  - 工作内容：一些杂活
-  - 
-  - 工作内容：软件开发与维护
-  - 
-  - 工作内容：软件开发与维护
+| Start Time                    | 📌 2023-08-01 —— Present |
+|----------------------------|--------------------------|
+| Research Content           |    Low-Light Image Enhancement                     |
+|                            |   Low-Light Video Enhancement                       |
+|                            |  Low-Light Scene Relighting                        |
+## [ADMSC-Simulator](https://www.nio.cn/)
+<img align="right" width="88" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/4.png" />
 
-
-## [ADMSC-Simulator](https://www.nio.cn/) <span style="float: right;">📌 2023-08-01 —— Present</span>
-
-  - 工作岗位：Web 前端开发实习生
-  - 
-  - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作
-  - 
-
-
+| Start Time                    | 📌 2023-08-01 —— Present |
+|----------------------------|--------------------------|
+| Research Content           |    Low-Light Image Enhancement                     |
+|                            |   Low-Light Video Enhancement                       |
+|                            |  Low-Light Scene Relighting                        |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chenyuhan1997/chenyuhan1997/output/github-contribution-grid-snake-dark.svg">
