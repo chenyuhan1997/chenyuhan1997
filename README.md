@@ -40,8 +40,11 @@
 <img align="right" width="88" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/2.png" />
 
   - 工作岗位：软件研发工程师
+  - 
   - 工作内容：软件开发与维护
+  - 
   - 工作内容：软件开发与维护
+  - 
   - 工作内容：软件开发与维护
 
 
@@ -49,8 +52,11 @@
 <img align="right" width="88" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/3.png" />
 
   - 工作岗位：Web 前端开发工程师
+  - 
   - 工作内容：一些杂活
+  - 
   - 工作内容：软件开发与维护
+  - 
   - 工作内容：软件开发与维护
 
 
@@ -58,7 +64,9 @@
 <img align="right" width="88" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/4.png" />
 
   - 工作岗位：Web 前端开发实习生
+  - 
   - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作
+  - 
 
 
 
