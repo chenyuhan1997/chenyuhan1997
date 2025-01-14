@@ -13,6 +13,11 @@
  <a href="https://github.com/chenyuhan1997"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
 </div>
 
+<div align="center">
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenyuhan1997)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+
 
 <!--
 **chenyuhan1997/chenyuhan1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
