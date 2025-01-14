@@ -172,3 +172,9 @@
 <img height="100" width="100" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/images/js.webp">
 <img height="100" width="100" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/images/github.webp">
 </div>
+
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/chenyuhan1997/chenyuhan1997/github-metrics/people.followers.svg" alt="people.followers" /></td>
+  </tr>
+</table>
