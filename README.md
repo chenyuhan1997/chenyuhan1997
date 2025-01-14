@@ -94,9 +94,9 @@
 ## :page_facing_up: :page_facing_up: About My Recent Paper
 
 ### :bulb: Putting an End to Darkness
-- :star::two::zero::two::three: - [FRR-NET: a fast reparameterized residual network for low-light image enhancement](https://link.springer.com/article/10.1007/s11760-024-03127-y)
-- :star::two::zero::two::four: - [FMR-Net: a fast multi-scale residual network for low-light image enhancement](https://link.springer.com/article/10.1007/s00530-023-01252-1)
-- :star::two::zero::two::four: - [MMFF-NET: Multi-layer and multi-scale feature fusion network for low-light infrared image enhancement](https://link.springer.com/article/10.1007/s11760-023-02797-4)
+- :star::two::zero::two::three: - [FRR-NET](https://link.springer.com/article/10.1007/s11760-024-03127-y)
+- :star::two::zero::two::four: - [FMR-Net](https://link.springer.com/article/10.1007/s00530-023-01252-1)
+- :star::two::zero::two::four: - [MMFF-NET](https://link.springer.com/article/10.1007/s11760-023-02797-4)
 
 ### :wrench: QH - 01
 - :black_square_button:
