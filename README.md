@@ -78,6 +78,7 @@
 
 <!-- feed start -->
 #### :boom: :boom: About My Recent Blog
+##### :bulb: Putting an End to Darkness
 - :star2: - [2D Gaussian Splatting 文章 + 代码串读（无敌详细/引经据典/疯狂解读）](https://zhuanlan.zhihu.com/p/708372232)
 - :star: - [Dust3r文章 + 代码串读（无敌详细/引经据典/疯狂解读）](https://zhuanlan.zhihu.com/p/10245148055)
 - :star: - [外行也能看懂！万字白话串讲SFM到3DGS / 4DGS 动静场景重建（零公式原理细讲/全网最详细）](https://zhuanlan.zhihu.com/p/11477776099)
