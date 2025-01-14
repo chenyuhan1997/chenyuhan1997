@@ -1,6 +1,6 @@
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A New Plan ... You Know ... &center=true&size=27" />
-  <img src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/1.png" alt="my"/ width="300">
+  <img src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/1.png" alt="my"/ width="2000">
 </p>
 
 <div align="center">
