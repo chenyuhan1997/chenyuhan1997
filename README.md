@@ -37,7 +37,6 @@
 
 
 ## [Putting an End to Darkness](https://lusun.com/) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 📌 2023-08-01 —— Present
-<img align="right" width="88" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/2.png" />
 
   - 工作岗位：软件研发工程师
   - 
@@ -49,7 +48,6 @@
 
 
 ## [QH - 01](https://www.tuhuimap.com/) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 📌 2023-06-19 —— Present
-<img align="right" width="88" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/3.png" />
 
   - 工作岗位：Web 前端开发工程师
   - 
@@ -61,7 +59,6 @@
 
 
 ## [ADMSC-Simulator](https://www.nio.cn/) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 📌 2023-02-20 —— Present
-<img align="right" width="88" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/4.png" />
 
   - 工作岗位：Web 前端开发实习生
   - 
