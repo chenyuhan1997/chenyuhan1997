@@ -81,6 +81,7 @@
 <!-- feed end -->
 
 :information_desk_person: **I'm a :smiley_cat: of the deep night** 
+:date: **I work every day** 
 
 ```text
 🌞 Morning                █░░░░░░░░░░░░░░░░░░░░░░░░   Probability: 08.13 % 
@@ -88,16 +89,14 @@
 🌃 Evening                ███████████████████████░░   Probability: 90.02 % 
 🌙 Night                  ███████████████████░░░░░░   Probability: 85.46 % 
 ```
-:date: **I work every day** 
-
-
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chenyuhan1997/chenyuhan1997/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chenyuhan1997/chenyuhan1997/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chenyuhan1997/chenyuhan1997/output/github-contribution-grid-snake.svg">
 </picture>
 
+
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/hr.gif" />
 
 
