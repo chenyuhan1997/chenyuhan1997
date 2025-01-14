@@ -107,6 +107,8 @@
 
 <img width="200%" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/hr.gif" />
 
+
+<div align="center" >
 <!-- just img 图片 -->
 <img src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/images/coding.gif" width="250" height="250" />
 
@@ -169,4 +171,4 @@
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
-
+</div>
