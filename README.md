@@ -29,11 +29,11 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
-<p>&emsp;&emsp;Hello, my name is Yuhan Chen, a PhD student from Chongqing University :raising_hand:.</p>
-<p>&emsp;&emsp;My primary research focuses on :point_right:<strong>image processing</strong> and :point_right:<strong>vehicle perception</strong>.</p>
-<p>&emsp;&emsp;I am working on an academic project called :point_right:<strong>"Putting an End to Darkness"</strong>:sunny: which is set to conclude in 2028.</p>
-<p>&emsp;&emsp;I am working on an academic project called :alien:<strong>"Putting an End to Darkness"</strong>:imp: which is set to conclude in 2030.</strong></p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<p>&emsp;Hello, my name is Yuhan Chen, a PhD student from Chongqing University :raising_hand:.</p>
+<p>&emsp;My primary research focuses on :point_right:<strong>image processing</strong> and :point_right:<strong>vehicle perception</strong>.</p>
+<p>&emsp;I am working on an academic project called :point_right:<strong>"Putting an End to Darkness"</strong>:sunny:&emsp;Deadline: 2028</p>
+<p>&emsp;I am working on an academic project called :alien:<strong>"Putting an End to Darkness"</strong>:imp:&emsp;Deadline: 2028</strong></p>
+<p>&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 </td></tr>
 
