@@ -18,7 +18,7 @@
 <div align="center">
    <img width="1000" src="https://github-readme-stats.vercel.app/api?username=chenyuhan1997&hide_title=true&hide_border=true&show_icons=trueline_height=200&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 </div>
-
+<img width="200%" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/hr.gif" />
 #  :oncoming_automobile: :bath: :bath: Hello
 
 <table>
@@ -32,7 +32,7 @@
 <p>&emsp;I am working on an academic project called :point_right:<strong>Putting an End to Darkness</strong>:sunny:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Deadline: <strong>2028</strong></p>
 <p>&emsp;I am working on an academic project called :alien:<strong>QH - 01</strong>:rocket:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Deadline: <strong>2030</strong></p>
 <p>&emsp;I am working on an academic project called :oncoming_automobile:<strong>ADMSC-Simulator</strong>:imp:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Deadline: <strong>2027</strong></p>
-
+<img width="200%" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/hr.gif" />
 ### :post_office: :runner: :runner: About My Projects
 
 
@@ -66,7 +66,7 @@
 |                            |    Editable Dynamic Objects                        |
 
 
-
+<img width="200%" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/hr.gif" />
 ### :office: :runner: :runner: About My Recent work
 
 <!-- feed start -->
@@ -79,7 +79,7 @@
 - :star2: - [FMR-Net: a fast multi-scale residual network for low-light image enhancement](https://link.springer.com/article/10.1007/s00530-023-01252-1)
 - :star2: - [MMFF-NET: Multi-layer and multi-scale feature fusion network for low-light infrared image enhancement](https://link.springer.com/article/10.1007/s11760-023-02797-4)
 <!-- feed end -->
-
+<img width="200%" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/hr.gif" />
 :information_desk_person: **I'm a :smiley_cat: of the deep night** 
 :date: **I work every day** 
 
