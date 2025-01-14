@@ -91,13 +91,7 @@
 :date: **I work every day** 
 
 ```text
-:one:Monday                    ██████████████████████░░   Probability: 08.13 % 
-:two:Tuesday                    ██████████████████████░░   Probability: 08.13 % 
-:three:Wednesday                    ██████████████████████░░   Probability: 08.13 % 
-:four:Thursday                    ██████████████████████░░   Probability: 08.13 % 
-:five:Friday                    ██████████████████████░░   Probability: 08.13 % 
-:six:Saturday                    ██████████████████████░░   Probability: 08.13 % 
-:seven:Sunday                    ██████████████████████░░   Probability: 08.13 % 
+
 
 
 <picture>
