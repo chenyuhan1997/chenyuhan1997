@@ -37,21 +37,21 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/yuanze.png" />
 
-- ## [Putting an End to Darkness](https://lusun.com/) &emsp; 📌 2023-08-01 —— Present
-- <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/yuanze.png" />
+## [Putting an End to Darkness](https://lusun.com/) &emsp; 📌 2023-08-01 —— Present
+
   - 工作岗位：软件研发工程师
   - 工作内容：软件开发与维护
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
 
-- ## [QH - 01](https://www.tuhuimap.com/) &emsp; 📌 2023-06-19 —— 2024-01-19
+## [QH - 01](https://www.tuhuimap.com/) &emsp; 📌 2023-06-19 —— 2024-01-19
 
   - 工作岗位：Web 前端开发工程师
   - 工作内容：一些杂活
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
 
-- ## [ADMSC-Simulator](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2023-05-12
+## [ADMSC-Simulator](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2023-05-12
 
   - 工作岗位：Web 前端开发实习生
   - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作
