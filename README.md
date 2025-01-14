@@ -175,6 +175,6 @@
 
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/chenyuhan1997/chenyuhan1997/github-metrics/people.followers.svg" alt="people.followers" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/people.followers.svg" alt="people.followers" /></td>
   </tr>
 </table>
