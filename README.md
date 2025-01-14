@@ -1,11 +1,7 @@
-<div class="centered-container">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=A New Plan ... You Know ... &center=true&size=27" alt="动态字体" />
-    </div>
-
-    <!-- 图像容器 -->
-    <div class="centered-container">
-        <img src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/1.png" alt="my" width="500" />
-</div>
+<p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A New Plan ... You Know ... &center=true&size=27" />
+  <img src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/1.png" alt="my" width="500" style="display: block; margin: 0 auto;"/>
+</p>
 
 <div align="center">
  <a href="https://www.zhihu.com/people/qiao-han-80-16/"><img src="https://img.shields.io/badge/Website-ZHIHU-blue" /></a>&emsp;
