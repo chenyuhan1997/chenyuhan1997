@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A New Plan ... You Know ... &center=true&size=27" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines= Welcome to Yuhan Chen's Studio;My Aim is to Solve 2D and 3D Challenges in Low-light Environments.&center=true&size=27" />
   <img src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/1.png" alt="my" width="1000" style="display: block; margin: 0 auto;"/>
 </p>
 
@@ -25,7 +25,7 @@
   
 <tr><td>
 
-### :love_hotel: :runner: :runner: About My Recent Work
+### :love_hotel: :runner: :runner: About My Recent Status
 
 <p>&emsp;Hello, my name is Yuhan Chen, a PhD student from Chongqing University :raising_hand:.</p>
 <p>&emsp;My primary research focuses on :point_right:<strong>image processing</strong> and :point_right:<strong>vehicle perception</strong>.</p>
@@ -36,7 +36,7 @@
 
 <tr><td>
 
-
+###  Work Experience
 
 
 <picture>
@@ -44,3 +44,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chenyuhan1997/chenyuhan1997/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chenyuhan1997/chenyuhan1997/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+
