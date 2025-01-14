@@ -36,7 +36,7 @@
 ### :post_office: :runner: :runner: About My Projects
 
 
-## [Putting an End to Darkness](https://lusun.com/)
+## [Putting an End to Darkness](https://github.com/chenyuhan1997/chenyuhan1997)
 <img align="right" width="88" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/2.png" />
 
 | Start Time                    | 📌 2023-08-01 —— Present |
@@ -46,7 +46,7 @@
 |                            |  Low-Light Scene Relighting                        |
 
 
-## [QH - 01](https://www.tuhuimap.com/)
+## [QH - 01](https://github.com/chenyuhan1997/chenyuhan1997)
 <img align="right" width="88" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/3.png" />
 
 | Start Time                    | 📌 2020-06-01 —— Present |
@@ -55,7 +55,7 @@
 |                            |   Real-Time 3D Modeling                            |
 |                            |  Multi-Sensor Fusion Perception                    |
 |                            |  LLM-based Robot Control                           |
-## [ADMSC-Simulator](https://www.nio.cn/)
+## [ADMSC-Simulator](https://github.com/chenyuhan1997/chenyuhan1997)
 <img align="right" width="88" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/4.png" />
 
 | Start Time                    | 📌 2024-04-11 —— Present |
