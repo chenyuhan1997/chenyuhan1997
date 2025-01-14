@@ -27,7 +27,7 @@
   
 
 
-### :love_hotel: :runner: :runner: About My Recent Status
+## :love_hotel: :runner: :runner: About My Recent Status
 
 <p>&emsp;Hello, my name is Yuhan Chen, a PhD student from Chongqing University :raising_hand:.</p>
 <p>&emsp;My primary research focuses on :point_right:<strong>image processing</strong> and :point_right:<strong>vehicle perception</strong>.</p>
@@ -37,10 +37,10 @@
 
 <img width="200%" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/hr.gif" />
 
-### :post_office: :runner: :runner: About My Projects
+## :post_office: :runner: :runner: About My Projects
 
 
-## [Putting an End to Darkness](https://github.com/chenyuhan1997/chenyuhan1997)
+### [Putting an End to Darkness](https://github.com/chenyuhan1997/chenyuhan1997)
 <img align="right" width="88" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/2.png" />
    
    | Start Time                    | 📌 2023-08-01 —— Present |
@@ -51,7 +51,7 @@
    |                            |  Convolutional Kernel Design                           |
 
 
-## [QH - 01](https://github.com/chenyuhan1997/chenyuhan1997)
+### [QH - 01](https://github.com/chenyuhan1997/chenyuhan1997)
 <img align="right" width="88" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/3.png" />
    
    | Start Time                    | 📌 2020-06-01 —— Present |
@@ -62,7 +62,7 @@
    |                            |  LLM-based Robot Control                           |
 
 
-## [ADMSC-Simulator](https://github.com/chenyuhan1997/chenyuhan1997)
+### [ADMSC-Simulator](https://github.com/chenyuhan1997/chenyuhan1997)
 <img align="right" width="88" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/4.png" />
    
    | Start Time                    | 📌 2024-04-11 —— Present |
@@ -74,15 +74,15 @@
 
 <img width="200%" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/hr.gif" />
 
-### :office: :runner: :runner: About My Recent work
+## :office: :runner: :runner: About My Recent work
 
 <!-- feed start -->
-#### :boom: :boom: About My Recent Blog
-##### :bulb: Putting an End to Darkness
+### :boom: :boom: About My Recent Blog
+#### :bulb: Putting an End to Darkness
 - :star2: - [2D Gaussian Splatting 文章 + 代码串读（无敌详细/引经据典/疯狂解读）](https://zhuanlan.zhihu.com/p/708372232)
 - :star: - [Dust3r文章 + 代码串读（无敌详细/引经据典/疯狂解读）](https://zhuanlan.zhihu.com/p/10245148055)
 - :star: - [外行也能看懂！万字白话串讲SFM到3DGS / 4DGS 动静场景重建（零公式原理细讲/全网最详细）](https://zhuanlan.zhihu.com/p/11477776099)
-#### :boom: :boom: About My Recent Paper
+### :boom: :boom: About My Recent Paper
 - :star::two::zero::two::three: - [FRR-NET: a fast reparameterized residual network for low-light image enhancement](https://link.springer.com/article/10.1007/s11760-024-03127-y)
 - :star::two::zero::two::four: - [FMR-Net: a fast multi-scale residual network for low-light image enhancement](https://link.springer.com/article/10.1007/s00530-023-01252-1)
 - :star::two::zero::two::four: - [MMFF-NET: Multi-layer and multi-scale feature fusion network for low-light infrared image enhancement](https://link.springer.com/article/10.1007/s11760-023-02797-4)
