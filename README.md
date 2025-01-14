@@ -3,6 +3,17 @@
   <img src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/1.png" alt="my"/>
 </p>
 
+<div>
+ <a href="https://www.zhihu.com/people/qiao-han-80-16/"><img src="https://img.shields.io/badge/Website-ZHIHU-blue" /></a>&emsp;
+ <a href="https://blog.csdn.net/m0_57628341/"><img src="https://img.shields.io/badge/Website-CSDN-orange" /></a>&emsp;
+ <a href="https://space.bilibili.com/55263196/"><img src="https://img.shields.io/badge/Bilibili-Bilibili-ff69b4" /></a>&emsp;
+ <!-- visitor -->
+ <img src="https://komarev.com/ghpvc/?username=chenyuhan1997&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+ <!-- wakatime -->    
+ <a href="https://github.com/chenyuhan1997"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
+</div>
+
+
 <!--
 **chenyuhan1997/chenyuhan1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
