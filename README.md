@@ -49,19 +49,21 @@
 ## [QH - 01](https://www.tuhuimap.com/)
 <img align="right" width="88" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/3.png" />
 
-| Start Time                    | 📌 2023-08-01 —— Present |
+| Start Time                    | 📌 2020-06-01 —— Present |
 |----------------------------|--------------------------|
-| Research Content           |    Low-Light Image Enhancement                     |
-|                            |   Low-Light Video Enhancement                       |
-|                            |  Low-Light Scene Relighting                        |
+| Research Content           |    Fast Object 6DoF Pose Tracking                  |
+|                            |   Real-Time 3D Modeling                            |
+|                            |  Multi-Sensor Fusion Perception                    |
+|                            |  LLM-based Robot Control                           |
 ## [ADMSC-Simulator](https://www.nio.cn/)
 <img align="right" width="88" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/4.png" />
 
-| Start Time                    | 📌 2023-08-01 —— Present |
+| Start Time                    | 📌 2024-04-11 —— Present |
 |----------------------------|--------------------------|
-| Research Content           |    Low-Light Image Enhancement                     |
-|                            |   Low-Light Video Enhancement                       |
-|                            |  Low-Light Scene Relighting                        |
+| Research Content           |    Awesome Gaussian Splatting                     |
+|                            |    Static Scene Editing                       |
+|                            |    Dynamic Scene Rendering                        |
+|                            |    Editable Dynamic Objects                        |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chenyuhan1997/chenyuhan1997/output/github-contribution-grid-snake-dark.svg">
