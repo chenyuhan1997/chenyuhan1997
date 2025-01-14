@@ -29,7 +29,7 @@
 
 <p>&emsp;Hello, my name is Yuhan Chen, a PhD student from Chongqing University :raising_hand:.</p>
 <p>&emsp;My primary research focuses on :point_right:<strong>image processing</strong> and :point_right:<strong>vehicle perception</strong>.</p>
-<p>&emsp;I am working on an academic project called :point_right:<strong>Putting an End to Darkness</strong>:sunny:&emsp; Deadline:<strong>2028</strong></p>
+<p>&emsp;I am working on an academic project called :point_right:<strong>Putting an End to Darkness</strong>:sunny:&emsp;&emsp;Deadline:<strong>2028</strong></p>
 <p>&emsp;I am working on an academic project called :alien:<strong>QH - 01</strong>:imp:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Deadline: <strong>2030</strong></p>
 
 </td></tr>
