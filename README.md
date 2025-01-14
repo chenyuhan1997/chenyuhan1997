@@ -7,8 +7,8 @@
 <div align="center">
  <a href="https://www.zhihu.com/people/qiao-han-80-16/"><img src="https://img.shields.io/badge/Website-ZHIHU-blue" /></a>&emsp;
  <a href="https://blog.csdn.net/m0_57628341/"><img src="https://img.shields.io/badge/Website-CSDN-orange" /></a>&emsp;
- <a href="https://space.bilibili.com/55263196/"><img src="https://img.shields.io/badge/Bilibili-Bilibili-ff69b4" /></a>&emsp;
- <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>&emsp;
+ <a href="https://space.bilibili.com/55263196/"><img src="https://img.shields.io/badge/Website-Bilibili-ff69b4" /></a>&emsp;
+ <a href="https://github.com/chenyuhan1997/"><img src="https://img.shields.io/badge/Website-Github-black" /></a>&emsp;
  <!-- visitor -->
  <img src="https://komarev.com/ghpvc/?username=chenyuhan1997&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
  <!-- wakatime -->    
