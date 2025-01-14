@@ -77,7 +77,7 @@
 # :office: :runner: :runner: About My Recent work
 
 <!-- feed start -->
-## :boom: :boom: About My Recent Blog
+## :newspaper: :newspaper: About My Recent Blog
 
 ### :bulb: Putting an End to Darkness
 - :star: - [弱光图像增强算法(6大算法附程序)，一站式解决论文实验比较部分](https://zhuanlan.zhihu.com/p/676780445)
@@ -91,7 +91,7 @@
 - :star: - [Dust3r文章 + 代码串读（无敌详细/引经据典/疯狂解读）](https://zhuanlan.zhihu.com/p/10245148055)
 - :star: - [外行也能看懂！万字白话串讲SFM到3DGS / 4DGS 动静场景重建（零公式原理细讲/全网最详细）](https://zhuanlan.zhihu.com/p/11477776099)
 
-## :boom: :boom: About My Recent Paper
+## :page_facing_up: :page_facing_up: About My Recent Paper
 
 ### :bulb: Putting an End to Darkness
 - :star::two::zero::two::three: - [FRR-NET: a fast reparameterized residual network for low-light image enhancement](https://link.springer.com/article/10.1007/s11760-024-03127-y)
