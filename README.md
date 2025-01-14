@@ -37,8 +37,9 @@
 
 
 ## [Putting an End to Darkness](https://lusun.com/)
+<img align="right" width="88" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/2.png" />
 
-| 工作岗位                     | 📌 2023-08-01 —— Present |
+| Start Time                    | 📌 2023-08-01 —— Present |
 |-----------------------------|--------------------------|
 | 软件研发工程师              |                          |
 | 软件开发与维护              |                          |
