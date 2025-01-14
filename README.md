@@ -41,27 +41,40 @@
 
 
 ## [Putting an End to Darkness](https://github.com/chenyuhan1997/chenyuhan1997)
+
 <img align="right" width="88" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/2.png" />
 
+<div align="center" >
+   
 | Start Time                    | 📌 2023-08-01 —— Present |
 |----------------------------|--------------------------|
 | Research Content           |    Low-Light Image Enhancement                     |
 |                            |   Low-Light Video Enhancement                       |
 |                            |  Low-Light Scene Relighting                        |
-
+   
+</div>
 
 ## [QH - 01](https://github.com/chenyuhan1997/chenyuhan1997)
+
 <img align="right" width="88" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/3.png" />
 
+<div align="center" >
+   
 | Start Time                    | 📌 2020-06-01 —— Present |
 |----------------------------|--------------------------|
 | Research Content           |    Fast Object 6DoF Pose Tracking                  |
 |                            |   Real-Time 3D Modeling                            |
 |                            |  Multi-Sensor Fusion Perception                    |
 |                            |  LLM-based Robot Control                           |
+
+</div>
+
 ## [ADMSC-Simulator](https://github.com/chenyuhan1997/chenyuhan1997)
+
 <img align="right" width="88" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/4.png" />
 
+<div align="center" >
+   
 | Start Time                    | 📌 2024-04-11 —— Present |
 |----------------------------|--------------------------|
 | Research Content           |    Awesome Gaussian Splatting                     |
@@ -69,6 +82,7 @@
 |                            |    Dynamic Scene Rendering                        |
 |                            |    Editable Dynamic Objects                        |
 
+</div>
 
 <img width="200%" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/hr.gif" />
 
@@ -173,8 +187,3 @@
 <img height="100" width="100" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/images/github.webp">
 </div>
 
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/people.followers.svg" alt="people.followers" /></td>
-  </tr>
-</table>
