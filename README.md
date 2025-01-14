@@ -31,7 +31,7 @@
 
 <p>&emsp;&emsp;Hello, my name is Yuhan Chen, a PhD student from Chongqing University :raising_hand:.</p>
 <p>&emsp;&emsp;My primary research focuses on :point_right: image processing and :point_right: vehicle perception.</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<p>&emsp;&emsp;Together with my friends, I am working on an academic project called :point_right: :point_right: :point_right: "Putting an End to Darkness" :sunny: :sunny: :sunny: which is set to conclude in 2028.</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 </td></tr>
