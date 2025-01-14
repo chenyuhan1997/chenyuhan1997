@@ -110,7 +110,7 @@
 
 <div align="center" >
 <!-- just img 图片 -->
-<img src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/images/coding.gif" width="1000" height="250" />
+<img src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/images/shin_chan.gif" width="250" height="250" />
 
 <!--  skill badge 技能徽章 -->
 
