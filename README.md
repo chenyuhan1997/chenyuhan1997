@@ -79,13 +79,23 @@
 <!-- feed start -->
 ## :boom: :boom: About My Recent Blog
 ### :bulb: Putting an End to Darkness
+- :star: - [弱光图像增强算法(6大算法附程序)，一站式解决论文实验比较部分](https://zhuanlan.zhihu.com/p/676780445)
+- :star: - [深度学习弱光图像增强入门学习贴及相关可参考工作推荐](https://zhuanlan.zhihu.com/p/678216658)
+### :wrench: QH - 01 :camera:
+- :black_square_button:
+### :camera: ADMSC-Simulator：
 - :star2: - [2D Gaussian Splatting 文章 + 代码串读（无敌详细/引经据典/疯狂解读）](https://zhuanlan.zhihu.com/p/708372232)
 - :star: - [Dust3r文章 + 代码串读（无敌详细/引经据典/疯狂解读）](https://zhuanlan.zhihu.com/p/10245148055)
 - :star: - [外行也能看懂！万字白话串讲SFM到3DGS / 4DGS 动静场景重建（零公式原理细讲/全网最详细）](https://zhuanlan.zhihu.com/p/11477776099)
 ## :boom: :boom: About My Recent Paper
+### :bulb: Putting an End to Darkness
 - :star::two::zero::two::three: - [FRR-NET: a fast reparameterized residual network for low-light image enhancement](https://link.springer.com/article/10.1007/s11760-024-03127-y)
 - :star::two::zero::two::four: - [FMR-Net: a fast multi-scale residual network for low-light image enhancement](https://link.springer.com/article/10.1007/s00530-023-01252-1)
 - :star::two::zero::two::four: - [MMFF-NET: Multi-layer and multi-scale feature fusion network for low-light infrared image enhancement](https://link.springer.com/article/10.1007/s11760-023-02797-4)
+### :wrench: QH - 01 :camera:
+- :black_square_button:
+### :camera: ADMSC-Simulator：
+- :black_square_button:
 <!-- feed end -->
 
 <img width="200%" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/hr.gif" />
@@ -94,9 +104,12 @@
 :date: **I work every day** 
 
 ```text
-🌞 Morning                █░░░░░░░░░░░░░░░░░░░░░░░░   Probability: 08.13 % 
-🌆 Daytime                █████████████████████░░░░   Probability: 80.59 % 
-🌃 Evening                ███████████████████████░░   Probability: 90.02 % 
+🌞 Morning                █░░░░░░░░░░░░░░░░░░░░░░░░   Probability: 08.13 %
+
+🌆 Daytime                █████████████████████░░░░   Probability: 80.59 %
+
+🌃 Evening                ███████████████████████░░   Probability: 90.02 %
+
 🌙 Night                  ███████████████████░░░░░░   Probability: 85.46 % 
 ```
 <picture>
