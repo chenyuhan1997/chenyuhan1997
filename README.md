@@ -45,14 +45,16 @@
   - 工作内容：软件开发与维护
 
 
-## [QH - 01](https://www.tuhuimap.com/) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 📌 2023-06-19 —— Present
+## [QH - 01](https://www.tuhuimap.com/) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 📌 2023-06-19 —— Present
 <img align="right" width="88" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/3.png" />
 
   - 工作岗位：Web 前端开发工程师
   - 工作内容：一些杂活
+  - 工作内容：软件开发与维护
+  - 工作内容：软件开发与维护
 
 
-## [ADMSC-Simulator](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2023-05-12
+## [ADMSC-Simulator](https://www.nio.cn/) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 📌 2023-02-20 —— Present
 <img align="right" width="88" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/4.png" />
 
   - 工作岗位：Web 前端开发实习生
